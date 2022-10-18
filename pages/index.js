@@ -6,13 +6,13 @@ export default function Home({ products }) {
   return (
     <div>
       <Head>
-        <title>PlanetScale Next.js Quickstart</title>
-        <meta name="description" content="PlanetScale Quickstart for Next.js" />
+        <title>TiDB Next.js Quickstart</title>
+        <meta name="description" content="TiDB Quickstart for Next.js" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className="p-10 mx-auto max-w-4xl">
-        <h1 className="text-6xl font-bold mb-4 text-center">Next.js Starter</h1>
+        <h1 className="text-6xl font-bold mb-4 text-center">Next.js + TiDB Cloud Starter</h1>
         <p className="mb-20 text-xl text-center">
           🔥 Shop from the hottest items in the world 🔥
         </p>
